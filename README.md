@@ -2,6 +2,23 @@
 
 This project provides a collection of ongoing challenges, workshops and competitions in computer science.
 
+Its goal is to provide a resource so anyone can quickly discover ongoing challenges in their research subfield of computer science.
+
+Please send a PR if you have a challenge to add or find a mistake.
+
+## Computer Vision
+
+### ISBI (International Symposium on Biomedical Imaging) Challenges
+
+| Link | Description |
+|---|---|
+|[ISBI-2020](http://2020.biomedicalimaging.org/challenges) | Challenges for 2020|
+|[ISBI-2019](https://biomedicalimaging.org/2019/challenges/) | Challenges for 2019|
+|[ISBI-2018](https://biomedicalimaging.org/2018/challenges/) | Challenges for 2018|
+|[ISBI-2017](https://biomedicalimaging.org/2017/challenges/) | Challenges for 2017|
+|[ISBI-2016](https://biomedicalimaging.org/2016/?page_id=416) | Challenges for 2016|
+|[ISBI-2015](https://biomedicalimaging.org/2015/program/isbi-challenges/) | Challenges for 2015|
+
 ## Natural Language Processing
 
 ### SemEval (Sematic Evaluation) Challenges
