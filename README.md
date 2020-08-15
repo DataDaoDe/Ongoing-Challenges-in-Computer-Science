@@ -8,6 +8,21 @@ To get on this list the challenges or competitions need to be something that hap
 
 Please send a PR if you have a challenge to add or find a mistake.
 
+## Algorithms
+
+### PACE (Parameterized Algorithms and Computational Experiments)
+
+| Link | Description |
+|---|---|
+|[PACE Website](https://pacechallenge.org/) | Description of what PACE is|
+|[PACE 2019](https://pacechallenge.org/2020/) | Challenges for 2020|
+|[PACE 2019](https://pacechallenge.org/2019/) | Challenges for 2019|
+|[PACE 2018](https://pacechallenge.org/2018/) | Challenges for 2018|
+|[PACE 2017](https://pacechallenge.org/2017/) | Challenges for 2017|
+|[PACE 2016](https://pacechallenge.org/2016/) | Challenges for 2016|
+
+---
+
 ## Computer Vision
 
 ### ISBI (International Symposium on Biomedical Imaging) Challenges
@@ -28,6 +43,8 @@ Please send a PR if you have a challenge to add or find a mistake.
 |[AIM-2020](https://data.vision.ee.ethz.ch/cvl/aim20/) | Challenges for 2020|
 |[AIM-2019](https://data.vision.ee.ethz.ch/cvl/aim19/) | Challenges for 2019|
 
+---
+
 ## Natural Language Processing
 
 ### SemEval (Semantic Evaluation) Challenges
@@ -44,6 +61,8 @@ Please send a PR if you have a challenge to add or find a mistake.
 |[SemEval-2014](http://alt.qcri.org/semeval2014/) | Challenge for 2014|
 |[SemEval-2013](https://www.cs.york.ac.uk/semeval-2013/) | Challenge for 2013|
 |[SemEval-2012](https://www.cs.york.ac.uk/semeval-2012/) | Challenge for 2012|
+
+---
 
 ## Knowledge Representation
 
