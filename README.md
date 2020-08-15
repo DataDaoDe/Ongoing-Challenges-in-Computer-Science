@@ -30,7 +30,7 @@ Please send a PR if you have a challenge to add or find a mistake.
 
 ## Natural Language Processing
 
-### SemEval (Sematic Evaluation) Challenges
+### SemEval (Semantic Evaluation) Challenges
 
 | Link | Description |
 |---|---|
