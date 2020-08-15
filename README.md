@@ -4,6 +4,8 @@ This project provides a collection of ongoing challenges, workshops and competit
 
 Its goal is to provide a resource so anyone can quickly discover ongoing challenges in their research subfield of computer science.
 
+To get on this list the challenges or competitions need to be something that happens on a recurring basis or has happened in the past on a recurring basis. 
+
 Please send a PR if you have a challenge to add or find a mistake.
 
 ## Computer Vision
@@ -18,6 +20,13 @@ Please send a PR if you have a challenge to add or find a mistake.
 |[ISBI-2017](https://biomedicalimaging.org/2017/challenges/) | Challenges for 2017|
 |[ISBI-2016](https://biomedicalimaging.org/2016/?page_id=416) | Challenges for 2016|
 |[ISBI-2015](https://biomedicalimaging.org/2015/program/isbi-challenges/) | Challenges for 2015|
+
+### AIM (Advances in Image Manipulation) Workshop
+
+| Link | Description |
+|---|---|
+|[AIM-2020](https://data.vision.ee.ethz.ch/cvl/aim20/) | Challenges for 2020|
+|[AIM-2019](https://data.vision.ee.ethz.ch/cvl/aim19/) | Challenges for 2019|
 
 ## Natural Language Processing
 
