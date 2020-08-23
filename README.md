@@ -21,6 +21,13 @@ Please send a PR if you have a challenge to add or find a mistake.
 |[PACE 2017](https://pacechallenge.org/2017/) | Challenges for 2017|
 |[PACE 2016](https://pacechallenge.org/2016/) | Challenges for 2016|
 
+### CG:SHOP (Computational Geometry)
+
+| Link | Description |
+|---|---|
+|[CG:SHOP 2020](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2020/) | Challenge for 2020|
+|[CG:SHOP 2019](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2019/) | Challenge for 2019|
+
 ---
 
 ## Computer Vision
