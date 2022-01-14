@@ -15,7 +15,9 @@ Please send a PR if you have a challenge to add or find a mistake.
 | Link | Description |
 |---|---|
 |[PACE Website](https://pacechallenge.org/) | Description of what PACE is|
-|[PACE 2019](https://pacechallenge.org/2020/) | Challenges for 2020|
+|[PACE 2022](https://pacechallenge.org/2022/) | Challenges for 2022|
+|[PACE 2021](https://pacechallenge.org/2021/) | Challenges for 2021|
+|[PACE 2020](https://pacechallenge.org/2020/) | Challenges for 2020|
 |[PACE 2019](https://pacechallenge.org/2019/) | Challenges for 2019|
 |[PACE 2018](https://pacechallenge.org/2018/) | Challenges for 2018|
 |[PACE 2017](https://pacechallenge.org/2017/) | Challenges for 2017|
