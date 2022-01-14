@@ -27,6 +27,8 @@ Please send a PR if you have a challenge to add or find a mistake.
 
 | Link | Description |
 |---|---|
+|[CG:SHOP 2022](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2022/) | Challenge for 2022|
+|[CG:SHOP 2021](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2021/) | Challenge for 2021|
 |[CG:SHOP 2020](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2020/) | Challenge for 2020|
 |[CG:SHOP 2019](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2019/) | Challenge for 2019|
 
