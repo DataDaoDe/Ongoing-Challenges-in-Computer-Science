@@ -37,10 +37,11 @@ Please send a PR if you have a challenge to add or find a mistake.
 ## Computer Vision
 
 ### ISBI (International Symposium on Biomedical Imaging) Challenges
-
 | Link | Description |
 |---|---|
-|[ISBI-2020](http://2020.biomedicalimaging.org/challenges) | Challenges for 2020|
+|[ISBI-2022](https://biomedicalimaging.org/2022/challenges/) | Challenges for 2022|
+|[ISBI-2021](https://biomedicalimaging.org/2021/challenges-2/) | Challenges for 2021|
+|[ISBI-2020](https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/challenges.html) | Challenges for 2020|
 |[ISBI-2019](https://biomedicalimaging.org/2019/challenges/) | Challenges for 2019|
 |[ISBI-2018](https://biomedicalimaging.org/2018/challenges/) | Challenges for 2018|
 |[ISBI-2017](https://biomedicalimaging.org/2017/challenges/) | Challenges for 2017|
