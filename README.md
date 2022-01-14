@@ -83,5 +83,6 @@ Please send a PR if you have a challenge to add or find a mistake.
 | Link | Description |
 |---|---|
 |[Knowledge Learning Project](https://github.com/knowledge-learning)| Github repo for the project|
+|[eHealth-KD 2021](https://ehealthkd.github.io/2021) | Challenge for 2021| 
 |[eHealth-KD 2020](https://knowledge-learning.github.io/ehealthkd-2020/) | Challenge for 2020| 
 |[eHealth-KD 2019](https://knowledge-learning.github.io/ehealthkd-2019/) | Challenge for 2019| 
