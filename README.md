@@ -52,6 +52,8 @@ Please send a PR if you have a challenge to add or find a mistake.
 
 | Link | Description |
 |---|---|
+|[AIM-2022](https://data.vision.ee.ethz.ch/cvl/aim22/) | Challenges for 2022|
+|[AIM-2021](https://data.vision.ee.ethz.ch/cvl/aim21/) | Challenges for 2021|
 |[AIM-2020](https://data.vision.ee.ethz.ch/cvl/aim20/) | Challenges for 2020|
 |[AIM-2019](https://data.vision.ee.ethz.ch/cvl/aim19/) | Challenges for 2019|
 
