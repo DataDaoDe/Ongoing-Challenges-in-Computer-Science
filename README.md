@@ -15,6 +15,7 @@ Please send a PR if you have a challenge to add or find a mistake.
 | Link | Description |
 |---|---|
 |[PACE Website](https://pacechallenge.org/) | Description of what PACE is|
+|[PACE 2023](https://pacechallenge.org/2023/) | Challenges for 2023|
 |[PACE 2022](https://pacechallenge.org/2022/) | Challenges for 2022|
 |[PACE 2021](https://pacechallenge.org/2021/) | Challenges for 2021|
 |[PACE 2020](https://pacechallenge.org/2020/) | Challenges for 2020|
@@ -27,6 +28,7 @@ Please send a PR if you have a challenge to add or find a mistake.
 
 | Link | Description |
 |---|---|
+|[CG:SHOP 2023](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2023/) | Challenge for 2023|
 |[CG:SHOP 2022](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2022/) | Challenge for 2022|
 |[CG:SHOP 2021](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2021/) | Challenge for 2021|
 |[CG:SHOP 2020](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2020/) | Challenge for 2020|
@@ -39,6 +41,7 @@ Please send a PR if you have a challenge to add or find a mistake.
 ### ISBI (International Symposium on Biomedical Imaging) Challenges
 | Link | Description |
 |---|---|
+|[ISBI-2023](https://2023.biomedicalimaging.org/en/CHALLENGES.html) | Challenges for 2023|
 |[ISBI-2022](https://biomedicalimaging.org/2022/challenges/) | Challenges for 2022|
 |[ISBI-2021](https://biomedicalimaging.org/2021/challenges-2/) | Challenges for 2021|
 |[ISBI-2020](https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/challenges.html) | Challenges for 2020|
@@ -66,6 +69,7 @@ Please send a PR if you have a challenge to add or find a mistake.
 | Link | Description |
 |---|---|
 |[SemEval](https://en.wikipedia.org/wiki/SemEval)| Description of the series of evaluations|
+|[SemEval-2023](https://semeval.github.io/SemEval2023/) | Challenge for 2023|
 |[SemEval-2022](https://semeval.github.io/SemEval2022/) | Challenge for 2022|
 |[SemEval-2021](https://semeval.github.io/SemEval2021/) | Challenge for 2021|
 |[SemEval-2020](http://alt.qcri.org/semeval2020/) | Challenge for 2020|
